@@ -16,7 +16,6 @@ $VERSION = "0.01";
 # Indicate
 
 sub indicate_increment {
-  ...
 }
 
 sub indicate_setup {
